@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826789250107",
+    "project_id": "aploadimage-a42c4",
+    "storage_bucket": "aploadimage-a42c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826789250107:android:08343ed57b62b9c5cc881e",
+        "android_client_info": {
+          "package_name": "com.aploadimage32.aploadimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUKtvRJlSo05Df-QnUDYFA6VS53aFMpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
